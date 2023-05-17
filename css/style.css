@@ -1,0 +1,32 @@
+header {
+    height: 100px;
+    background-color: rgb(81, 81, 122);
+}
+
+.jumbotron {
+    height: 400px;
+    background-color: lightgreen;
+}
+
+.portfolio {
+    height: 500px;
+}
+
+.about {
+    height: 200px;
+    background-color: lightgreen;
+}
+
+.contact {
+    height: 500px;
+}
+
+.upper-footer {
+    height: 150px;
+    background-color: darkslategray;
+}
+
+.bottom-footer {
+    height: 70px;
+    background-color: rgb(128, 146, 146);
+}
