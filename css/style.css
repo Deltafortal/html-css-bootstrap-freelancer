@@ -1,25 +1,62 @@
+.column {
+    border: 2px dashed rgb(124, 48, 48);
+}
+
+
+
+/****** Header ******/
+
 header {
     height: 100px;
     background-color: rgb(81, 81, 122);
 }
+
+
+
+
+/****** Jumbotron ******/
 
 .jumbotron {
     height: 400px;
     background-color: lightgreen;
 }
 
+.jumbotron .column {
+    height: 200px;
+}
+
+
+/******* Main *******/
+
+
+/* Portfolio */
+
 .portfolio {
     height: 500px;
 }
+
+
+
+
 
 .about {
     height: 200px;
     background-color: lightgreen;
 }
 
+
+
+
 .contact {
     height: 500px;
 }
+
+
+
+
+
+
+
 
 .upper-footer {
     height: 150px;
