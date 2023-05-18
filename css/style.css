@@ -1,7 +1,11 @@
 .column {
-    border: 2px dashed rgb(212, 66, 205);
+    
 }
 
+
+h1 {
+    font-size: 50px;
+}
 
 
 /****** Header ******/
@@ -26,6 +30,12 @@ header {
     height: 200px;
 }
 
+.jumbotron .separator {
+    height: 3px;
+    width: 150px;
+    background-color: white;
+    margin-left: 
+}
 
 
 
@@ -35,7 +45,7 @@ header {
 /* Portfolio */
 
 .portfolio {
-    height: 500px;
+    
 }
 
 
