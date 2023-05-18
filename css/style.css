@@ -17,12 +17,11 @@ header {
 /****** Jumbotron ******/
 
 .jumbotron {
-    height: 400px;
     background-color: #1abc9c;
 }
 
-.jumbotron .column {
-    height: 200px;
+.jumbotron img {
+    width: 200px;
 }
 
 .jumbotron .separator {
