@@ -1,8 +1,3 @@
-.column {
-    
-}
-
-
 h1 {
     font-size: 50px;
 }
@@ -42,14 +37,6 @@ header {
 /******* Main *******/
 
 
-/* Portfolio */
-
-.portfolio {
-    
-}
-
-
-
 /* About */
 
 
@@ -59,17 +46,20 @@ header {
 
 
 
+/* Contact */
 
-.contact {
-    height: 500px;
+
+.contact input,
+.special-input {
+    border: 0px solid black;
+    border-bottom: 1px solid lightgray;
+    border-radius: 0;
 }
 
 
 
 
-
-
-
+/* Upper Footer */
 
 .upper-footer {
     height: 150px;
